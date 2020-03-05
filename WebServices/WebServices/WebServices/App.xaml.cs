@@ -1,4 +1,5 @@
 ﻿using System;
+using WebServices.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -9,8 +10,7 @@ namespace WebServices
 		public App()
 		{
 			InitializeComponent();
-
-			MainPage = new MainPage();
+			MainPage = new GetGenrePage();
 		}
 
 		protected override void OnStart()
