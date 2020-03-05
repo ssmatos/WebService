@@ -5,9 +5,9 @@ Screenshots del proyecto.
 
 Start:
 
-![](Images/Screenshot%20(19).png)
+![](Screenshot%20(19).png)
 
 
 Show data:
 
-![](Images/Screenshot%20(18).png)
+![](Screenshot%20(18).png)
